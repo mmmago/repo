@@ -1,0 +1,12 @@
+Origin: mago's repo
+Label: mago's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iOS apps & stuffs
+
+SHA256:
+ c7504be7656c07ce313823e17525a94c1179c94a13efe9e9bf6d39419499a610 553 Packages.bz2
+ dc810c2554b363f043d8a1bedbe5db60b3db29ce3ddb193d9d63379142b5efbf 564 Packages.xz
